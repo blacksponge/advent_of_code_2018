@@ -1,5 +1,3 @@
-extern crate regex;
-
 use std::io;
 
 fn remove_unit(input: String) -> String {
